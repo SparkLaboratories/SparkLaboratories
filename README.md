@@ -66,9 +66,10 @@ Do you have a vision for a physical technology product? We offer end-to-end deve
 [**Get in Touch to Discuss Your Project**](mailto:contato@sparklaboratories.com.br)
 
 ---
-
 <div align="center">
-  <img src="./FromSparkToFlame.png" height="200" alt="Spark Laboratories Logo" />
+<img src="./FromSparkToFlame.png" height="200" alt="Spark Laboratories Logo" />
+</div>
+<div align="center">
   <sub>© 2026 Spark Laboratories. All rights reserved.</sub>
 </div>
 </div>
