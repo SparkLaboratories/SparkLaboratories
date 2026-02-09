@@ -20,11 +20,6 @@
 
 We are a **Deeptech startup** based in **Maringá, Brazil**, dedicated to developing cutting-edge hardware solutions for the healthcare industry. Our mission is to bridge the gap between complex engineering and practical medical applications.
 
-Our team specializes in:
-* **Medical Robotics & Hardware:** Prototyping and manufacturing of surgical and training devices.
-* **Neurotechnology:** Research and development of EEG interfaces and neuro-stimulation tools.
-* **Smart Sanitization:** Creators of **Flow**, an intelligent dilution system for hospital-grade sanitizers.
-
 ---
 
 ### 🛠️ Tech Stack & Engineering
@@ -40,19 +35,39 @@ We build physical products powered by robust software.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Internal Projects
 
 #### 🔹 Project Flow
-*Status: In Development / Private Beta*
-An IoT-enabled electronic diluter designed to optimize the usage of concentrated sanitizers in clinical environments.
-> *Repository is currently private for IP protection.*
+*Status: In Development / Private Beta* An IoT-enabled electronic diluter designed to optimize the usage of concentrated sanitizers in clinical environments.
 
-#### 🔹 Open Source Tools
-*Coming soon...*
-We believe in contributing back to the hardware community. Stay tuned for our public libraries and 3D printable utilities.
+#### 🔹 Weevil
+*Status: R&D / Confidential* Advanced robotics platform for high-precision tasks.
+
+#### 🔹 Second Heart
+*Status: R&D / Confidential* Next-generation MedTech device focused on circulatory support systems.
+
+#### 🔹 Continuum
+*Status: Early Prototyping* Experimental hardware exploring new frontiers in continuous monitoring.
+
+> *Note: Repositories for these projects are currently private for IP protection.*
+
+---
+
+### 🤝 Partner Projects & Services
+
+In addition to our internal R&D, Spark Laboratories operates as a specialized engineering partner for select clients.
+
+**Confidential Client Projects:**
+We currently have multiple active projects under strict NDA, developing custom hardware and firmware solutions for partners in the industry.
+
+**Build With Us:**
+Do you have a vision for a physical technology product? We offer end-to-end development services—from proof of concept to manufacturing strategy.
+
+[**Get in Touch to Discuss Your Project**](mailto:contato@sparklaboratories.com.br)
 
 ---
 
 <div align="center">
   <sub>© 2026 Spark Laboratories. All rights reserved.</sub>
+</div>
 </div>
