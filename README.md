@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="SparkLabsWhite.png" height="100" alt="Spark Laboratories Logo" />
+  <img src="./SparkLabsWhite.png" height="100" alt="Spark Laboratories Logo" />
   <h1>Spark Laboratories</h1>
   <p><strong>Innovating at the intersection of Hardware, Neurotechnology, and MedTech.</strong></p>
   
