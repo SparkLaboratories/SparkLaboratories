@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./SparkLabsWhite.png" height="100" alt="Spark Laboratories Logo" />
+  <img src="./SparkLabsWhite.png" height="1000" alt="Spark Laboratories Logo" />
   <h1>Spark Laboratories</h1>
   <p><strong>Innovating at the intersection of Hardware, Neurotechnology, and MedTech.</strong></p>
   
@@ -68,6 +68,7 @@ Do you have a vision for a physical technology product? We offer end-to-end deve
 ---
 
 <div align="center">
+  <img src="./FromSparkToFlame.png" height="200" alt="Spark Laboratories Logo" />
   <sub>© 2026 Spark Laboratories. All rights reserved.</sub>
 </div>
 </div>
