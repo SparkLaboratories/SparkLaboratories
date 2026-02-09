@@ -4,7 +4,7 @@
   <p><strong>Innovating at the intersection of Hardware, Neurotechnology, and MedTech.</strong></p>
   
   <a href="https://sparklaboratories.com.br">
-    <img src="https://img.shields.io/badge/Website-sparklaboratories.com-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-sparklaboratories.com.br-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
   <a href="mailto:contato@sparklaboratories.com.br">
     <img src="https://img.shields.io/badge/Contact-Email%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
