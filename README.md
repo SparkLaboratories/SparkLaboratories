@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./SparkLabsWhite.png" height="1000" alt="Spark Laboratories Logo" />
   <h1>Spark Laboratories</h1>
-  <p><strong>Innovating at the intersection of Hardware, Neurotechnology, and MedTech.</strong></p>
+  <p><strong>Innovating at the intersection of Hardware and Science.</strong></p>
   
   <a href="https://sparklaboratories.com.br">
     <img src="https://img.shields.io/badge/Website-sparklaboratories.com.br-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
